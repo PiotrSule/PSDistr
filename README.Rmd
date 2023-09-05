@@ -12,13 +12,13 @@ knitr::opts_chunk$set(
 )
 ```
 
-# PSDistr - Distribution Derived From the Normal Distribution
+# PSDistr - Distributions Derived From Normal Distribution
 **author: Piotr Sulewski, Pomeranian University**
 
 <!-- badges: start -->
 <!-- badges: end -->
 
-Distribution derived from the normal distribution are: two-piece power normal (TPPN), plasticizing component (PC), DS normal (DSN), expnormal (EN), 
+Distributions derived from normal distribution are: two-piece power normal (TPPN), plasticizing component (PC), DS normal (DSN), expnormal (EN), 
 Sulewski plasticizing component (SPC), easily changeable kurtosis (ECK) distributions. Density, distribution function, quantile function and random generation are presented.
 To read more about the package please see (and cite :)) papers:
 
