@@ -12,7 +12,7 @@ knitr::opts_chunk$set(
 )
 ```
 
-# PSDistr - Distributions Derived From Normal Distribution
+# PSDistr - Distributions Derived from Normal Distribution
 **author: Piotr Sulewski, Pomeranian University**
 
 <!-- badges: start -->

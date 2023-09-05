@@ -1,5 +1,5 @@
 Package: PSDistr
-Title: Distributions Derived From Normal Distribution
+Title: Distributions Derived from Normal Distribution
 Version: 0.0.1
 Authors@R: 
     person("Piotr", "Sulewski", , "piotr.sulewski@apsl.edu.pl", role = c("aut", "cre"),
