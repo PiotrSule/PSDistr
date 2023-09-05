@@ -2,7 +2,7 @@ Package: PSDistr
 Title: Distribution Derived From The Normal Distribution
 Version: 0.0.1
 Authors@R: 
-    person("Piotr", "Sulewski", , "piotr.sulewski@upsl.edu.pl", role = c("aut", "cre"),
+    person("Piotr", "Sulewski", , "piotr.sulewski@apsl.edu.pl", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-0788-6567"))
 Description: Presentation of distributions such as: two-piece power normal (TPPN), plasticizing component (PC), DS normal (DSN), expnormal (EN), Sulewski plasticizing component (SPC), easily changeable kurtosis (ECK) distributions. Density, distribution function, quantile function and random generation are presented.
 Depends:
