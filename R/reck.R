@@ -7,7 +7,7 @@
 #' @param n positive number of observations
 #' @param a positive scale parameter
 #' @param p shape parameter: p>-1
-#'
+#' @return The function returns random generation values for the Easily Changeable Kurtosis Distribution.
 #' @rdname reck
 #'
 #' @details

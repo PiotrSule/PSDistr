@@ -10,7 +10,7 @@
 #' @param c multipurpose parameter
 #' @param d multipurpose parameter (d>=1)
 #' @param teta position parameter
-#'
+#' @return The function returns random generator values for the Sulewski plasticizing component distribution.
 #' @rdname rspc
 #'
 #' @details

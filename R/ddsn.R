@@ -9,7 +9,7 @@
 #' @param b non-negative multipurpose parameter and a+b>0
 #' @param c real multipurpose parameter
 #' @param teta real position parameter
-#'
+#' @return The function returns the value of the probability density function for the DS normal distribution
 #' @rdname ddsn
 #'
 #' @details

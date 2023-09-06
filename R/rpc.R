@@ -8,7 +8,7 @@
 #' @param teta position parameter
 #' @param s2 positive scale parameter
 #' @param c shape parameter (c>=1)
-#'
+#' @return The function returns random generator values for the plasticizing component.
 #' @rdname rpc
 #'
 #' @details

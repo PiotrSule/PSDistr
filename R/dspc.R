@@ -10,7 +10,7 @@
 #' @param c multipurpose parameter
 #' @param d multipurpose parameter (d>=1)
 #' @param teta position parameter
-#'
+#' @return The function returns the value of the probability density function for the Sulewski plasticizing component distribution.
 #' @rdname dspc
 #'
 #' @details

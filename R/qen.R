@@ -2,7 +2,7 @@
 #'
 #' @description
 #' Density, distribution function, quantile function and random generation
-#' for the Expnormal Distribution with parameters a1, b1, a2, b2 and c.
+#' for the Expnormal distribution with parameters a1, b1, a2, b2 and c.
 #'
 #' @param p probability between 0 and 1
 #' @param a1 position parameter
@@ -10,7 +10,7 @@
 #' @param a2 position parameter
 #' @param b2 positive scale parameter
 #' @param c semi-fraction parameter
-#'
+#' @return The function returns the value of the quantile function for the Expnormal distribution.
 #' @rdname qen
 #'
 #' @details

@@ -9,7 +9,7 @@
 #' @param s1 positive scale parameter
 #' @param s2 positive scale parameter
 #' @param c shape parameter (c>=1)
-#'
+#' @return The function returns random generator values for the two-piece power normal distribution.
 #' @rdname rtppn
 #'
 #' @details

@@ -7,7 +7,7 @@
 #' @param x -a<x<a for -1<p<0 or -a<=x<=a for p>=1
 #' @param a positive scale parameter
 #' @param p shape parameter: p>-1
-#'
+#' @return The function returns the value of the probability density function for the Easily Changeable Kurtosis Distribution.
 #' @rdname deck
 #'
 #' @details

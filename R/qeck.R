@@ -7,7 +7,7 @@
 #' @param q probability between 0 and 1
 #' @param a positive scale parameter
 #' @param p shape parameter: p>-1
-#'
+#' @return The function returns the value of the quantile function for the Easily Changeable Kurtosis Distribution.
 #' @rdname qeck
 #'
 #' @details

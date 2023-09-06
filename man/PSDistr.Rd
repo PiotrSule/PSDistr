@@ -15,11 +15,11 @@ The list of package functions is as follows:
 
 \code{\link{dtppn}}
 
-\code{\link{pttpn}}
+\code{\link{ptppn}}
 
 \code{\link{qtppn}}
 
-\code{\link{rttpn}}
+\code{\link{rtppn}}
 }
 
 \section{Functions for the plasticizing component distribution}{
