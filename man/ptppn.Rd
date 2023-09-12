@@ -17,6 +17,9 @@ ptppn(x, teta, s1, s2, c)
 
 \item{c}{shape parameter (c>=1)}
 }
+\value{
+The function returns the value of the cumulative distribution function for the two-piece power normal distribution.
+}
 \description{
 Density, distribution function, quantile function and random generation
 for the two-piece power normal distribution with parameters teta, s1, s2 and c.

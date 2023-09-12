@@ -17,6 +17,9 @@ ddsn(x, a, b, c, teta)
 
 \item{teta}{real position parameter}
 }
+\value{
+The function returns the value of the probability density function for the DS normal distribution
+}
 \description{
 Density, distribution function, quantile function and random generation
 for the DS normal distribution with parameters a, b, c and d.

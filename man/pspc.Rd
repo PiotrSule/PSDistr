@@ -19,6 +19,9 @@ pspc(x, a, b, c, d, teta)
 
 \item{teta}{position parameter}
 }
+\value{
+The function returns the value of the cumulative distribution function for the Sulewski plasticizing component distribution.
+}
 \description{
 Density, distribution function, quantile function and random generation
 for the Sulewski plasticizing component distribution with parameters a, b, c, d and teta.

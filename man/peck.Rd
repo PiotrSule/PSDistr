@@ -13,6 +13,9 @@ peck(x, a, p)
 
 \item{p}{shape parameter: p>-1}
 }
+\value{
+The function returns the value of the cumulative distribution function for the Easily Changeable Kurtosis Distribution.
+}
 \description{
 Density, distribution function, quantile function and random generation
 for the Easily Changeable Kurtosis Distribution with parameters a and p.

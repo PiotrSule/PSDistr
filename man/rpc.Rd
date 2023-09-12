@@ -15,6 +15,9 @@ rpc(n, teta, s2, c)
 
 \item{c}{shape parameter (c>=1)}
 }
+\value{
+The function returns random generator values for the plasticizing component.
+}
 \description{
 Density, distribution function, quantile function and random generation
 for the plasticizing component with parameters teta, s2 and c.

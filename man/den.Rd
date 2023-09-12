@@ -19,9 +19,12 @@ den(x, a1, b1, a2, b2, c)
 
 \item{c}{semi-fraction parameter}
 }
+\value{
+The function returns the value of the probability density function for the Expnormal distribution.
+}
 \description{
 Density, distribution function, quantile function and random generation
-for the Expnormal Distribution with parameters a1, b1, a2, b2 and c.
+for the Expnormal distribution with parameters a1, b1, a2, b2 and c.
 }
 \details{
 Probability density function

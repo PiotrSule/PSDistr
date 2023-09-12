@@ -17,6 +17,9 @@ rdsn(n, a, b, c, teta)
 
 \item{teta}{real position parameter}
 }
+\value{
+The function returns random generator values for the DS normal distribution
+}
 \description{
 Density, distribution function, quantile function and random generation
 for the DS normal distribution with parameters a, b, c and d.
